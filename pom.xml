@@ -46,7 +46,7 @@
         <serverId>releases</serverId>
         <nexusUrl>http://localhost:8081/nexus/</nexusUrl>
         <!-- explicit matching using the staging profile id -->
-        <stagingProfileId>129341e09f2ee275</stagingProfileId>
+       <!-- <stagingProfileId>129341e09f2ee275</stagingProfileId> -->
       </configuration>
     </plugin>
     </plugins>
