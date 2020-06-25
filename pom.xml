@@ -49,7 +49,6 @@
         <stagingProfileId>129341e09f2ee275</stagingProfileId>
       </configuration>
     </plugin>
-    <finalName>jenkins-git-integration</finalName>
   </build>
   <distributionManagement>
     <repository>
